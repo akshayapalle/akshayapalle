@@ -1,4 +1,4 @@
-###                                                Hi there 👋
+###                                                                                                 Hi there 👋, I'm Akshaya
 
 - 🌱 I’m currently learning Python Programming 
 
