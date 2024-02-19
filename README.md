@@ -1,4 +1,4 @@
-###                                                                                           Hi there 👋, I'm Akshaya
+###                                                                                           Hello there , I'm Akshaya
 - 🐥 Amateur coder evolving bit by bit, step by step, learning steadily, day by day.
 - 🌱 Code, Collaborate, Create. 
 - 🎯 Currently I'm Learning Python 
