@@ -1,6 +1,7 @@
-###                                                                                           Hello there , I'm Akshaya
-- 🐥 Amateur coder evolving bit by bit, step by step, learning steadily, day by day.
-- 🌱 Code, Collaborate, Create. 
-- 🎯 Currently I'm learning AI
+###                                                                                           Hi, I'm Akshaya 👋
+- I'm an Artificial Intelligence & Data Science graduate interested in AI and software development.
+- Currently exploring Machine Learning, Generative AI, LLMs, RAG, and AI Agents using Python. 
+- 🎯 Things I've Been Working With
+- Python · FastAPI · RAG · ChromaDB · GenAI . Agentic AI . Azure OpenAI · AutoGen · Semantic Kernel
                                                    ![coding_](https://github.com/akshayapalle/akshayapalle/assets/98692091/bf3c49e5-710d-4aa0-9405-567f46c6af78)
-- ⭐️ From "Hello World" to endless possibilities, coding my way to proficiency.
+- ⭐️ Learning, Building, Improving. 
